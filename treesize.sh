@@ -1,4 +1,4 @@
-#/bin/sh
+#/bin/s
 du -k --max-depth=1 | sort -nr | awk '
      BEGIN {
         split("KB,MB,GB,TB", Units, ",");
