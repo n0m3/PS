@@ -1,8 +1,7 @@
 ﻿########################################################
 # Name: BackupScript.ps1                              
-# Creator: Michael Seidl aka Techguy                    
-# CreationDate: 21.01.2014                              
-          
+# CreatorTechguy                    
+
 # michael@techguy.at 
 ########################################################
 
